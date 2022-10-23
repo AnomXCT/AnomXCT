@@ -12,6 +12,7 @@
 🔰And my hacking medium is termux, 
   because it's easy for me 
   and for everyone.
+Metode peretasan yang paling sering saya gunakan adalah rekayasa sosial 
 
 🇮🇩Greetings from us anonymous Indonesia🇮🇩
   
